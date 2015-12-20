@@ -1,0 +1,23 @@
+{
+  "name": "gulp-trio-concat",
+  "version": "0.1.0",
+  "description": "Middleware for Trio",
+  "main": "src/trioConcat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trio-dev/gulp-trio-concat.git"
+  },
+  "author": "Chi Kei Chan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trio-dev/gulp-trio-concat/issues"
+  },
+  "homepage": "https://github.com/trio-dev/gulp-trio-concat#readme",
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.0"
+  }
+}
